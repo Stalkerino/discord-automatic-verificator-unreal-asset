@@ -1,0 +1,10 @@
+{
+  "token": "DiscordToken",
+  "pluginList": [
+    {
+      "plugin": "PluginUrl", 
+      "url": "ApiReviewListUrl",
+      "role": "RoleNameForVerifiedUser"
+    }
+  ]
+}

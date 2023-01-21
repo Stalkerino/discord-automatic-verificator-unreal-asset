@@ -1,0 +1,20 @@
+{
+  "name": "discord-verification-plugin",
+  "version": "1.0.0",
+  "description": "A discord plugin verification tool by the langamer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LanGamer",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.2.3"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "he": "^1.2.0",
+    "lowdb": "^5.0.5"
+  }
+}

@@ -18,7 +18,7 @@ This database will contain the Discord name, Discord Unique Id, Epic Id, Epic me
       "discord": "Discord#0000",
       "discord_id": "12345678912345678",
       "url_plugin": "plugin_url",
-      "epicId": "35299a83daba48f2989402da37bb3ea0",
+      "epicId": "aaaaaaaaaaaaaaaaaaaaaaaa",
       "originalContent": "review content"
     }
   ],
