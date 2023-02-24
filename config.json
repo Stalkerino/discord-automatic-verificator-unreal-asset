@@ -4,7 +4,8 @@
     {
       "plugin": "PluginUrl", 
       "url": "ApiReviewListUrl",
-      "role": "RoleNameForVerifiedUser"
+      "role": "RoleNameForVerifiedUser",
+      "name": ""
     }
   ]
 }

@@ -47,7 +47,5 @@ function stripHtmlTags(html) {
 
 export async function setRoleToUser(client, role, message) {
   const Guilds = client.guilds.cache.map(guild => guild.id);
-  const member = await client.guilds.cache.get(Guilds[0]).members.fetch(message.author.id);
-  console.log(member.guild.roles.cache.find(r => r.name === role).id);
-  member.roles.add(member.guild.roles.cache.find(r => r.name === role).id);
+  await client.guilds.cache.get(Guilds[0]).members.fetch(message.author.id);
 }
