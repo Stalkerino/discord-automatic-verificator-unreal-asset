@@ -64,7 +64,8 @@ Change the configuration inside the "config.json" file like so :
     {
       "plugin": "plugin_url", 
       "url": "api review list url",
-      "role": "role name once verified"
+      "role": "role name once verified",
+      "name:" "pluginName"
     },
     { ... },
     { ... },
